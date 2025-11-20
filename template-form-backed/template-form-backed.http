@@ -1,0 +1,6 @@
+@template_form_backed_HostAddress = http://localhost:5268
+
+GET {{template_form_backed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
